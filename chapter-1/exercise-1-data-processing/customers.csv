@@ -1,0 +1,11 @@
+customer_id,age,gender,city,salary,purchased
+1,25,Male,New York,50000,1
+2,,Female,London,60000,0
+3,40,Male,Paris,80000,1
+4,35,Female,New York,120000,0
+5,28,Male,Paris,52000,1
+6,,Female,London,70000,0
+7,50,Male,Paris,95000,1
+8,38,Female,New York,58000,0
+9,42,Female,London,75000,1
+10,29,Male,Paris,61000,0
